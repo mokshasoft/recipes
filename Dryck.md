@@ -2,16 +2,16 @@
 Mjölksyrad frukt- och bärdryck.
 
 ## Storlek
-30.0 Liter 
+30.0 liter 
 
 ## Ingredienser
-- 1.5 Kilo Äpplen
-- 1.5 Piece Apelsin
-- 0.75 Kilo Blåbär
-- 0.5 Liter Dryck
-- 375.0 Gram Honung
-- 17.0 Gram Fänkålsfrö
-- 150.0 Gram Honung
+- 1.5 kilo Äpplen
+- 1.5 stycken Apelsin
+- 0.75 kilo Blåbär
+- 0.5 liter Dryck
+- 375.0 gram Honung
+- 17.0 gram Fänkålsfrö
+- 150.0 gram Honung
 
 ## Steg
 1. Ta fram en jäshink på 30 liter.

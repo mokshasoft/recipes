@@ -13,7 +13,15 @@ data Unit
   | Deciliter
   | Liter
   | Piece
-  deriving (Show)
+
+instance Show Unit where
+  show Tablespoon = "Matsked"
+  show Teaspoon = "Tesked"
+  show Gram = "gram"
+  show Kilo = "kilo"
+  show Deciliter = "deciliter"
+  show Liter = "liter"
+  show Piece = "stycken"
 
 data Item =
   Item
