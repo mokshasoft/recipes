@@ -9,6 +9,7 @@ data Unit
   = Tablespoon
   | Teaspoon
   | Gram
+  | Kilo
   | Deciliter
   | Liter
   | Piece
