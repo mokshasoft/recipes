@@ -7,6 +7,7 @@ import Recipe
 recipe :: Recipe
 recipe =
   Recipe
+    "Dryck"
     "Syrad dryck"
     "Mjölksyrad frukt- och bärdryck."
     (Item "" 30 Liter)

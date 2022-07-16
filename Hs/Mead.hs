@@ -8,6 +8,7 @@ recipe :: Recipe
 recipe =
   Recipe
     "Nejlikomjöd"
+    "Nejlikomjöd"
     "Mjöd smaksatt med nejlikor."
     (Item "" 7 Deciliter)
     [ Step

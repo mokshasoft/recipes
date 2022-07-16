@@ -7,4 +7,5 @@ recipes :: [Recipe]
 recipes = [Drink.recipe, Mead.recipe]
 
 main :: IO ()
-main = mapM_ (putStrLn . toMarkdown) recipes
+main =
+  mapM_ (\r -> writeFile ("../" ++ filename r ++ ".md") (toMarkdown r)) recipes

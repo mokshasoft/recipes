@@ -32,7 +32,8 @@ data Step =
 
 data Recipe =
   Recipe
-    { title :: String
+    { filename :: String
+    , title :: String
     , intro :: String
     , size :: Item
     , steps :: [Step]
