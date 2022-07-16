@@ -1,5 +1,5 @@
 module Recipe
-  ( Recipe
+  ( Recipe(..)
   , Unit(..)
   , Item(..)
   , Step(..)
@@ -10,6 +10,7 @@ data Unit
   | Teaspoon
   | Gram
   | Deciliter
+  | Liter
   | Piece
   deriving (Show)
 
@@ -28,4 +29,11 @@ data Step =
     }
   deriving (Show)
 
-type Recipe = [Step]
+data Recipe =
+  Recipe
+    { title :: String
+    , intro :: String
+    , size :: Item
+    , steps :: [Step]
+    }
+  deriving (Show)
