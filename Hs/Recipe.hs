@@ -11,6 +11,7 @@ data Unit
   | Gram
   | Kilo
   | Deciliter
+  | Milliliter
   | Liter
   | Piece
 
@@ -20,6 +21,7 @@ instance Show Unit where
   show Gram = "gr"
   show Kilo = "kg"
   show Deciliter = "dl"
+  show Milliliter = "ml"
   show Liter = "liter"
   show Piece = "st"
 
