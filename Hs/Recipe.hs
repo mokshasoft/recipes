@@ -15,13 +15,13 @@ data Unit
   | Piece
 
 instance Show Unit where
-  show Tablespoon = "Matsked"
-  show Teaspoon = "Tesked"
-  show Gram = "gram"
-  show Kilo = "kilo"
-  show Deciliter = "deciliter"
+  show Tablespoon = "msk"
+  show Teaspoon = "tsk"
+  show Gram = "gr"
+  show Kilo = "kg"
+  show Deciliter = "dl"
   show Liter = "liter"
-  show Piece = "stycken"
+  show Piece = "st"
 
 data Item =
   Item
