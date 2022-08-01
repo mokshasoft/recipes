@@ -1,3 +1,4 @@
+import Dosa
 import Drink
 import Markdown
 import Mead
@@ -6,7 +7,8 @@ import Truffles
 import YoghurtSalad
 
 recipes :: [Recipe]
-recipes = [Drink.recipe, Mead.recipe, Truffles.recipe, YoghurtSalad.recipe]
+recipes =
+  [Dosa.recipe, Drink.recipe, Mead.recipe, Truffles.recipe, YoghurtSalad.recipe]
 
 main :: IO ()
 main =

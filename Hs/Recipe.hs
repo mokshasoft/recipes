@@ -14,6 +14,7 @@ data Unit
   | Milliliter
   | Liter
   | Piece
+  | Portion
 
 instance Show Unit where
   show Tablespoon = "msk"
@@ -24,6 +25,7 @@ instance Show Unit where
   show Milliliter = "ml"
   show Liter = "liter"
   show Piece = "st"
+  show Portion = "portioner"
 
 data Item =
   Item
