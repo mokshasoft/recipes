@@ -23,3 +23,6 @@ Tryfflar med kakao, kokos och salt.
 4. Värm blandningen lätt på spisen och vispa till en jämn smet.
 5. Låt stå i kylskåp tills blandningen stelnar.
 6. Forma bollar av blandningen, och ställ tillbaka i kylskåpet.
+
+## Skapad av
+- Jonas Claeson

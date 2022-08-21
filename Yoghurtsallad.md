@@ -27,3 +27,6 @@ En typ av raita som är bra som tillbehör till t.ex. indiska rätter.
     - 1.0 liter yoghurt
 7. Blanda väl så att kryddorna och saltet löser sig.
 8. Låt stå och dra i kylen i en timme innan den serveras.
+
+## Skapad av
+- Jonas Claeson

@@ -49,5 +49,6 @@ data Recipe =
     , intro :: String
     , size :: Item
     , steps :: [Step]
+    , creators :: [String]
     }
   deriving (Show)

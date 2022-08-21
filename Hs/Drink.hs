@@ -44,3 +44,4 @@ recipe =
     , Step "Tappa upp på flaskor. Gärna glasflaskor med patentkork." []
     , Step "Låt flaskorna stå i rumstemeratur i tre veckor." []
     ]
+    ["Kjell Claeson"]

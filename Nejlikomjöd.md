@@ -16,3 +16,6 @@ Mjöd smaksatt med nejlikor.
 2. Lägg till nejlikor
     - 7.0 st nejlikor
 3. Låt stå i rumstemeratur i en månad.
+
+## Skapad av
+- Jonas Claeson

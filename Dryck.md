@@ -37,3 +37,6 @@ Mjölksyrad frukt- och bärdryck.
 14. Låt hinken stå något dygn för att sedimenten ska lägga sig på botten igen.
 15. Tappa upp på flaskor. Gärna glasflaskor med patentkork.
 16. Låt flaskorna stå i rumstemeratur i tre veckor.
+
+## Skapad av
+- Kjell Claeson

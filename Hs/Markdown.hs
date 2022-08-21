@@ -34,6 +34,9 @@ stepsToItems steps = foldl (\acc i -> acc ++ items i) [] steps
 stepsToIngredients :: [Step] -> String
 stepsToIngredients = itemsToStr . stepsToItems
 
+creatorsToStr :: [String] -> String
+creatorsToStr xs = concat $ map (\x -> "- " ++ x ++ "\n") xs
+
 toMarkdown :: Recipe -> String
 toMarkdown recipe =
   "# " ++
@@ -46,4 +49,7 @@ toMarkdown recipe =
   "\n\n" ++
   "## Ingredienser\n" ++
   stepsToIngredients (steps recipe) ++
-  "\n" ++ "## Steg\n" ++ stepsToStr (steps recipe)
+  "\n" ++
+  "## Steg\n" ++
+  stepsToStr (steps recipe) ++
+  "\n## Skapad av\n" ++ creatorsToStr (creators recipe)

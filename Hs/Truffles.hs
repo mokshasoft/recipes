@@ -25,3 +25,4 @@ recipe =
     , Step "Låt stå i kylskåp tills blandningen stelnar." []
     , Step "Forma bollar av blandningen, och ställ tillbaka i kylskåpet." []
     ]
+    ["Jonas Claeson"]
