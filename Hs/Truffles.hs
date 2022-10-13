@@ -19,10 +19,9 @@ recipe =
         ]
     , Step "Vispa grädden tills den nästan blir som vispad grädde." []
     , Step
-        "Tillsätt kokosfett och kakao, gärna rå."
+        "Värm kokosfett i en gryta så att det smälter. Tillsätt kakao, gärna rå."
         [Item "kokosfett" 80 Gram, Item "kakao" 70 Gram]
-    , Step "Värm blandningen lätt på spisen och vispa till en jämn smet." []
-    , Step "Låt stå i kylskåp tills blandningen stelnar." []
-    , Step "Forma bollar av blandningen, och ställ tillbaka i kylskåpet." []
+    , Step "Häll ner grädden i grytan och vispa till en jämn smet." []
+    , Step "Klicka ut smeten i lagom stora klickar på en plåt med en sked och ställ i kylskåp." []
     ]
     ["Jonas Claeson"]

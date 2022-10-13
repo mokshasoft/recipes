@@ -17,12 +17,11 @@ Tryfflar med kakao, kokos och salt.
     - 2.0 msk lönnsirap
     - 2.5 ml salt
 2. Vispa grädden tills den nästan blir som vispad grädde.
-3. Tillsätt kokosfett och kakao, gärna rå.
+3. Värm kokosfett i en gryta så att det smälter. Tillsätt kakao, gärna rå.
     - 80.0 gr kokosfett
     - 70.0 gr kakao
-4. Värm blandningen lätt på spisen och vispa till en jämn smet.
-5. Låt stå i kylskåp tills blandningen stelnar.
-6. Forma bollar av blandningen, och ställ tillbaka i kylskåpet.
+4. Häll ner grädden i grytan och vispa till en jämn smet.
+5. Klicka ut smeten i lagom stora klickar på en plåt med en sked och ställ i kylskåp.
 
 ## Skapad av
 - Jonas Claeson
