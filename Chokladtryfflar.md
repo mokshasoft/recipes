@@ -22,6 +22,3 @@ Tryfflar med kakao, kokos och salt.
     - 70.0 gr kakao
 4. Häll ner grädden i grytan och vispa till en jämn smet.
 5. Klicka ut smeten i lagom stora klickar på en plåt med en sked och ställ i kylskåp.
-
-## Skapad av
-- Jonas Claeson

@@ -51,5 +51,4 @@ toMarkdown recipe =
   stepsToIngredients (steps recipe) ++
   "\n" ++
   "## Steg\n" ++
-  stepsToStr (steps recipe) ++
-  "\n## Skapad av\n" ++ creatorsToStr (creators recipe)
+  stepsToStr (steps recipe)

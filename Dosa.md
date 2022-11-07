@@ -23,6 +23,3 @@ En fermenterad Sydindisk pannkaka bestående av ris och röda linser.
 6. Mixa till en slät smet.
 7. Låt fermentera i 8 timmar i 30 grader.
 8. Stek gyllenbruna likt pannkakor.
-
-## Skapad av
-- Jonas Claeson

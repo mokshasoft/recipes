@@ -12,6 +12,3 @@ Ett te med traditioner i Ryssland som görs av mjölkört. Kan likna både svart
     - 10.0 liter Mjölkört
 2. Kör bladen genom en slow-juicer och samla både vätskan och fibrerna.
 3. Torka massan i ugnen mellan 40-90 grader. Olika temeraturer ger olika smaker.
-
-## Skapad av
-- Jonas Claeson
