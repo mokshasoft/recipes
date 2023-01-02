@@ -11,6 +11,8 @@ Mjölksyrad frukt- och bärdryck.
 - 0.5 liter dryck
 - 375.0 gr honung
 - 17.0 gr fänkålsfrö
+- 2.0 msk kryddnejlika
+- 1.0 tsk ingefära
 - 150.0 gr honung
 
 ## Steg
@@ -28,6 +30,8 @@ Mjölksyrad frukt- och bärdryck.
 7. Häll i fänkålen i hinken.
     - 17.0 gr fänkålsfrö
 8. Valfritt. Krydda drycken med tex chili, ingefära, färsk gurkmeja, nejlikor, eller något annat
+    - 2.0 msk kryddnejlika
+    - 1.0 tsk ingefära
 9. Fyll hinken med kallt vatten.
 10. Sätt på ett tätslutande lock på hinken. Locket kan ha ett vattenlås men behöver det inte.
 11. Ställ hinken i rumstemperatur.

@@ -26,7 +26,7 @@ recipe =
     , Step "Häll i fänkålen i hinken." [Item "fänkålsfrö" 17 Gram]
     , Step
         "Valfritt. Krydda drycken med tex chili, ingefära, färsk gurkmeja, nejlikor, eller något annat"
-        []
+        [Item "hel kryddnejlika" 2 Tablespoon, Item "ingefära" 1 Teaspoon]
     , Step "Fyll hinken med kallt vatten." []
     , Step
         "Sätt på ett tätslutande lock på hinken. Locket kan ha ett vattenlås men behöver det inte."
@@ -44,4 +44,4 @@ recipe =
     , Step "Tappa upp på flaskor. Gärna glasflaskor med patentkork." []
     , Step "Låt flaskorna stå i rumstemeratur i tre veckor." []
     ]
-    ["Kjell Claeson"]
+    ["Kjell Claeson", "Jonas Claeson"]
