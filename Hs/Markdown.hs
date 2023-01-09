@@ -1,5 +1,6 @@
 module Markdown
   ( toMarkdown
+  , toReadme
   ) where
 
 import Recipe
@@ -58,3 +59,13 @@ toMarkdown recipe =
   section (h 2 "Ingredienser") (body (stepsToIngredients (steps recipe))) ++
   section (h 2 "Steg") (body (stepsToStr (steps recipe))) ++
   section (h 2 "Anteckningar") (body (stepsToStr (notes recipe)))
+
+toReadme :: [(String, String)] -> String
+toReadme ls =
+  h 1 "Recipes" ++
+  "A collection of recipes\n\n" ++
+  (concat $ map (\(t, f) -> "    - [\"" ++ t ++ "\"](" ++ f ++ ".md)\n") ls) ++
+  "\n" ++
+  section
+    (h 2 "Licence")
+    "[CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)"

@@ -10,8 +10,20 @@ import YoghurtSalad
 
 recipes :: [Recipe]
 recipes =
-  [Dosa.recipe, Drink.recipe, IvanChai.recipe, Mead.recipe, Truffles.recipe, VeganTopping.recipe, YoghurtSalad.recipe]
+  [ Dosa.recipe
+  , Drink.recipe
+  , IvanChai.recipe
+  , Mead.recipe
+  , Truffles.recipe
+  , VeganTopping.recipe
+  , YoghurtSalad.recipe
+  ]
 
 main :: IO ()
-main =
-  mapM_ (\r -> writeFile ("../" ++ filename r ++ ".md") (toMarkdown r)) recipes
+main = do
+  ls <- mapM handle recipes
+  writeFile "../README.md" (toReadme ls)
+  where
+    handle r = do
+      writeFile ("../" ++ filename r ++ ".md") (toMarkdown r)
+      pure (title r, filename r)
