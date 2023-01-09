@@ -64,7 +64,7 @@ toReadme :: [(String, String)] -> String
 toReadme ls =
   h 1 "Recipes" ++
   "A collection of recipes\n" ++
-  (concat $ map (\(t, f) -> "  - [\"" ++ t ++ "\"](" ++ f ++ ".md)\n") ls) ++
+  (concat $ map (\(t, f) -> "  - [" ++ t ++ "](" ++ f ++ ".md)\n") ls) ++
   "\n" ++
   section
     (h 2 "Licence")
