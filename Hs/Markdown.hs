@@ -52,4 +52,6 @@ toMarkdown recipe =
   stepsToIngredients (steps recipe) ++
   "\n" ++
   h 2 "Steg" ++
-  stepsToStr (steps recipe)
+  stepsToStr (steps recipe) ++
+  h 2 "Anteckningar" ++
+  stepsToStr (notes recipe)

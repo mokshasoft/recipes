@@ -24,4 +24,5 @@ recipe =
     , Step "Häll ner grädden i grytan och vispa till en jämn smet." []
     , Step "Klicka ut smeten i lagom stora klickar på en plåt med en sked och ställ i kylskåp." []
     ]
+    []
     ["Jonas Claeson"]

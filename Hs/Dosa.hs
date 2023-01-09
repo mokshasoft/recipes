@@ -24,4 +24,5 @@ recipe =
     , Step "Låt fermentera i 8 timmar i 30 grader." []
     , Step "Stek gyllenbruna likt pannkakor." []
     ]
+    []
     ["Jonas Claeson"]
