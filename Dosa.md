@@ -10,6 +10,7 @@ En fermenterad Sydindisk pannkaka bestående av ris och röda linser.
 - 1.0 msk salt
 - 1.0 msk anisfrö
 
+
 ## Steg
 1. Blötlägg linser och ris i 12 timmar.
     - 2.5 dl röda linser
@@ -23,3 +24,5 @@ En fermenterad Sydindisk pannkaka bestående av ris och röda linser.
 6. Mixa till en slät smet.
 7. Låt fermentera i 8 timmar i 30 grader.
 8. Stek gyllenbruna likt pannkakor.
+
+

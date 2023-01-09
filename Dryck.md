@@ -11,15 +11,14 @@ Mjölksyrad frukt- och bärdryck.
 - 0.5 liter dryck
 - 375.0 gr honung
 - 17.0 gr fänkålsfrö
-- 2.0 msk kryddnejlika
-- 1.0 tsk ingefära
 - 150.0 gr honung
+
 
 ## Steg
 1. Ta fram en jäshink på 30 liter.
 2. Skär äpplen i bitar och lägg i hinken.
     - 1.5 kg äpplen
-3. Skiva apelsin med skalet och lägg i hinken.
+3. Skiva apelsin med skalet och lägg i hinken. Apelsinen är till för att ta bort en bismak som kan bli när man fermenterar frukt.
     - 1.5 st apelsin
 4. Häll blåbären i hinken.
     - 0.75 kg blåbär
@@ -29,15 +28,22 @@ Mjölksyrad frukt- och bärdryck.
     - 375.0 gr honung
 7. Häll i fänkålen i hinken.
     - 17.0 gr fänkålsfrö
-8. Valfritt. Krydda drycken med tex chili, ingefära, färsk gurkmeja, nejlikor, eller något annat
-    - 2.0 msk kryddnejlika
-    - 1.0 tsk ingefära
-9. Fyll hinken med kallt vatten.
-10. Sätt på ett tätslutande lock på hinken. Locket kan ha ett vattenlås men behöver det inte.
-11. Ställ hinken i rumstemperatur.
-12. Låt jäsa i tre veckor. I början kommer drycken expandera något så var försiktig om lite av drycken skulle rinna ut.
-13. Tillsätt honung utblandad med vatten i hinken, och rör om.
+8. Fyll hinken med kallt vatten så att totalvolymen blir 30 liter. Sätt på ett tätslutande lock på hinken. Locket kan ha ett vattenlås men behöver det inte.
+9. Ställ hinken i rumstemperatur och låt jäsa i tre veckor. I början kommer drycken expandera något så var försiktig om lite av drycken skulle rinna ut. Är det kallare än 20 grader så tar jäsningen längre tid, låt då drycken jäsa längre tills den har jäst ut helt.
+10. Tillsätt honung utblandad med vatten i hinken, och rör om. Honungen är till för att andra fermenteringen i flaskan ska ge viss kolsyra.
     - 150.0 gr honung
-14. Låt hinken stå något dygn för att sedimenten ska lägga sig på botten igen.
-15. Tappa upp på flaskor. Gärna glasflaskor med patentkork.
-16. Låt flaskorna stå i rumstemeratur i tre veckor.
+11. Låt hinken stå något dygn för att sedimenten ska lägga sig på botten igen.
+12. Tappa upp på flaskor. Gärna glasflaskor med patentkork.
+13. Låt flaskorna stå i rumstemeratur i tre veckor. Ju längre flaskorna står desto mer tydlig blir kolsyran.
+
+
+## Anteckningar
+1. Äpplen går att byta mot tex rabarber som ger en annan smak.
+2. Olika kryddningsalternativ. Krydda drycken med tex chili, ingefära, färsk gurkmeja, nejlikor, eller något annat gott.
+3. En Julig variant går att göra genom att krydda med kryddnejlika och ingefära, men den är god även när det inte är Jul.
+    - 2.0 msk hel kryddnejlika
+    - 1.0 tsk ingefära
+4. Under utveckling. En variant med tesmak. Sjud teet i cirka 30 minuter, låt svalna och tillsätt teet med bladen i jäshinken. För att få en fin tefärg på drycken så använd inga bär med starka färger, så som blåbär.
+    - 0.5 dl svart te
+
+

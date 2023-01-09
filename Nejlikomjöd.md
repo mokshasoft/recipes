@@ -9,6 +9,7 @@ Mjöd smaksatt med nejlikor.
 - 50.0 gr honung
 - 7.0 st nejlikor
 
+
 ## Steg
 1. Blanda ut honungen med vattnet.
     - 7.0 dl vatten
@@ -16,3 +17,5 @@ Mjöd smaksatt med nejlikor.
 2. Lägg till nejlikor
     - 7.0 st nejlikor
 3. Låt stå i rumstemeratur i en månad.
+
+
