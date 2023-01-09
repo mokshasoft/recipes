@@ -40,18 +40,21 @@ creatorsToStr xs = concat $ map (\x -> "- " ++ x ++ "\n") xs
 h :: Int -> String -> String
 h n title = replicate n '#' ++ " " ++ title ++ "\n"
 
+body :: String -> String
+body [] = ""
+body str = str ++ "\n\n"
+
+section :: String -> String -> String
+section title body =
+  if null body
+    then ""
+    else title ++ body
+
 toMarkdown :: Recipe -> String
 toMarkdown recipe =
   h 1 (title recipe) ++
-  intro recipe ++
-  "\n\n" ++
-  h 2 "Storlek" ++
-  sizeToStr (size recipe) ++
-  "\n\n" ++
-  h 2 "Ingredienser" ++
-  stepsToIngredients (steps recipe) ++
-  "\n" ++
-  h 2 "Steg" ++
-  stepsToStr (steps recipe) ++
-  h 2 "Anteckningar" ++
-  stepsToStr (notes recipe)
+  body (intro recipe) ++
+  section (h 2 "Storlek") (body (sizeToStr (size recipe))) ++
+  section (h 2 "Ingredienser") (body (stepsToIngredients (steps recipe))) ++
+  section (h 2 "Steg") (body (stepsToStr (steps recipe))) ++
+  section (h 2 "Anteckningar") (body (stepsToStr (notes recipe)))
