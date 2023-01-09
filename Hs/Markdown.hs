@@ -37,18 +37,19 @@ stepsToIngredients = itemsToStr . stepsToItems
 creatorsToStr :: [String] -> String
 creatorsToStr xs = concat $ map (\x -> "- " ++ x ++ "\n") xs
 
+h :: Int -> String -> String
+h n title = replicate n '#' ++ " " ++ title ++ "\n"
+
 toMarkdown :: Recipe -> String
 toMarkdown recipe =
-  "# " ++
-  title recipe ++
-  "\n" ++
+  h 1 (title recipe) ++
   intro recipe ++
   "\n\n" ++
-  "## Storlek\n" ++
+  h 2 "Storlek" ++
   sizeToStr (size recipe) ++
   "\n\n" ++
-  "## Ingredienser\n" ++
+  h 2 "Ingredienser" ++
   stepsToIngredients (steps recipe) ++
   "\n" ++
-  "## Steg\n" ++
+  h 2 "Steg" ++
   stepsToStr (steps recipe)
