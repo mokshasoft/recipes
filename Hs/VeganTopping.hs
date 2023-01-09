@@ -20,7 +20,9 @@ recipe =
         , Item "salt" 0.5 Teaspoon
         , Item "näringsjäst" 4 Tablespoon
         ]
-    , Step "Mixa blandningen till den blir slätare men fortfarande med lite bitar i." []
+    , Step
+        "Mixa blandningen till den blir slätare men fortfarande med lite bitar i."
+        []
     ]
     []
     ["Jonas Claeson"]

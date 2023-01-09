@@ -22,7 +22,9 @@ recipe =
         "Värm kokosfett i en gryta så att det smälter. Tillsätt kakao, gärna rå."
         [Item "kokosfett" 80 Gram, Item "kakao" 70 Gram]
     , Step "Häll ner grädden i grytan och vispa till en jämn smet." []
-    , Step "Klicka ut smeten i lagom stora klickar på en plåt med en sked och ställ i kylskåp." []
+    , Step
+        "Klicka ut smeten i lagom stora klickar på en plåt med en sked och ställ i kylskåp."
+        []
     ]
     []
     ["Jonas Claeson"]
