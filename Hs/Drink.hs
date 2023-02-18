@@ -46,10 +46,16 @@ recipe =
         "Olika kryddningsalternativ. Krydda drycken med tex chili, ingefära, färsk gurkmeja, nejlikor, eller något annat gott."
         []
     , Step
-        "En Julig variant går att göra genom att krydda med kryddnejlika och ingefära, men den är god även när det inte är Jul."
+        "Jul-varianten, men även god annars. Tillsätt följande till receptet:"
         [Item "hel kryddnejlika" 2 Tablespoon, Item "ingefära" 1 Teaspoon]
     , Step
-        "Under utveckling. En variant med tesmak. Sjud teet i cirka 30 minuter, låt svalna och tillsätt teet med bladen i jäshinken. För att få en fin tefärg på drycken så använd inga bär med starka färger, så som blåbär."
+        "Under utveckling; Te. Sjud teet i cirka 30 minuter, låt svalna och tillsätt teet med bladen i jäshinken. För att få en fin tefärg på drycken så använd inga bär med starka färger, så som blåbär."
         [Item "svart te" 1.5 Deciliter]
+    , Step
+        "Under utveckling; Hallon. Ta bort blåbär och tillsätt följande:"
+        [Item "hallon" 450 Gram, Item "färsk ingefära" 100 Gram]
+    , Step
+        "Under utveckling; Passionsfrukt. Ta bort blåbär och tillsätt följande:"
+        [Item "passionsfrukt" 500 Gram, Item "färsk ingefära" 200 Gram]
     ]
     ["Kjell Claeson", "Jonas Claeson"]

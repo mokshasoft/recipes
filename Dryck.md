@@ -40,10 +40,16 @@ Mjölksyrad frukt- och bärdryck.
 ## Anteckningar
 1. Äpplen går att byta mot tex rabarber som ger en annan smak.
 2. Olika kryddningsalternativ. Krydda drycken med tex chili, ingefära, färsk gurkmeja, nejlikor, eller något annat gott.
-3. En Julig variant går att göra genom att krydda med kryddnejlika och ingefära, men den är god även när det inte är Jul.
+3. Jul-varianten, men även god annars. Tillsätt följande till receptet:
     - 2.0 msk hel kryddnejlika
     - 1.0 tsk ingefära
-4. Under utveckling. En variant med tesmak. Sjud teet i cirka 30 minuter, låt svalna och tillsätt teet med bladen i jäshinken. För att få en fin tefärg på drycken så använd inga bär med starka färger, så som blåbär.
-    - 0.5 dl svart te
+4. Under utveckling; Te. Sjud teet i cirka 30 minuter, låt svalna och tillsätt teet med bladen i jäshinken. För att få en fin tefärg på drycken så använd inga bär med starka färger, så som blåbär.
+    - 1.5 dl svart te
+5. Under utveckling; Hallon. Ta bort blåbär och tillsätt följande:
+    - 450.0 gr hallon
+    - 100.0 gr färsk ingefära
+6. Under utveckling; Passionsfrukt. Ta bort blåbär och tillsätt följande:
+    - 500.0 gr passionsfrukt
+    - 200.0 gr färsk ingefära
 
 
