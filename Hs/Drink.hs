@@ -50,6 +50,6 @@ recipe =
         [Item "hel kryddnejlika" 2 Tablespoon, Item "ingefära" 1 Teaspoon]
     , Step
         "Under utveckling. En variant med tesmak. Sjud teet i cirka 30 minuter, låt svalna och tillsätt teet med bladen i jäshinken. För att få en fin tefärg på drycken så använd inga bär med starka färger, så som blåbär."
-        [Item "svart te" 0.5 Deciliter]
+        [Item "svart te" 1.5 Deciliter]
     ]
     ["Kjell Claeson", "Jonas Claeson"]
