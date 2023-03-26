@@ -63,6 +63,6 @@ recipe =
         [Item "svart te" 1.5 Deciliter]
     , Step
         "Under utveckling. Malört. Malörten ska torkas och smulas sönder något för att det ska vara enkelt att få rätt mängd i receptet. Ta bort blåbär och äpplen, och tillsätt följande:"
-        [Item "apelsinjuice" 1.5 Deciliter, Item "torkad malört" 1 Deciliter]
+        [Item "apelsinjuice" 1.5 Liter, Item "torkad malört" 1 Deciliter]
     ]
     ["Kjell Claeson", "Jonas Claeson"]
