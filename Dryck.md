@@ -43,13 +43,18 @@ Mjölksyrad frukt- och bärdryck.
 3. Jul-varianten, men även god annars. Tillsätt följande till receptet:
     - 2.0 msk hel kryddnejlika
     - 1.0 tsk ingefära
-4. Under utveckling; Te. Sjud teet i cirka 30 minuter, låt svalna och tillsätt teet med bladen i jäshinken. För att få en fin tefärg på drycken så använd inga bär med starka färger, så som blåbär.
-    - 1.5 dl svart te
-5. Under utveckling; Hallon. Ta bort blåbär och tillsätt följande:
+4. Hallon-ingefära. Ta bort blåbär och tillsätt följande:
     - 450.0 gr hallon
     - 100.0 gr färsk ingefära
-6. Under utveckling; Passionsfrukt. Ta bort blåbär och tillsätt följande:
+5. Passionsfrukt. Ta bort blåbär och äpplen, och tillsätt följande:
+    - 1.3 kg äpplen
     - 500.0 gr passionsfrukt
     - 200.0 gr färsk ingefära
+    - 2.0 dl apelsinjuice
+6. Te. Det finns två te-varianter; den ena på kallbryggt te som ger en vanlig "dryck-syrlighet", och den andra på kokt te som ger en smak mer liknande kombucha. För varianten med kokt te: Sjud teet i cirka 30 minuter, låt svalna och tillsätt teet med bladen i jäshinken. För att få en fin tefärg på drycken så använd inga bär med starka färger, så som blåbär.
+    - 1.5 dl svart te
+7. Under utveckling. Malört. Malörten ska torkas och smulas sönder något för att det ska vara enkelt att få rätt mängd i receptet. Ta bort blåbär och äpplen, och tillsätt följande:
+    - 1.5 dl apelsinjuice
+    - 1.0 dl torkad malört
 
 

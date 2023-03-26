@@ -49,13 +49,20 @@ recipe =
         "Jul-varianten, men även god annars. Tillsätt följande till receptet:"
         [Item "hel kryddnejlika" 2 Tablespoon, Item "ingefära" 1 Teaspoon]
     , Step
-        "Under utveckling; Te. Sjud teet i cirka 30 minuter, låt svalna och tillsätt teet med bladen i jäshinken. För att få en fin tefärg på drycken så använd inga bär med starka färger, så som blåbär."
-        [Item "svart te" 1.5 Deciliter]
-    , Step
-        "Under utveckling; Hallon. Ta bort blåbär och tillsätt följande:"
+        "Hallon-ingefära. Ta bort blåbär och tillsätt följande:"
         [Item "hallon" 450 Gram, Item "färsk ingefära" 100 Gram]
     , Step
-        "Under utveckling; Passionsfrukt. Ta bort blåbär och tillsätt följande:"
-        [Item "passionsfrukt" 500 Gram, Item "färsk ingefära" 200 Gram]
+        "Passionsfrukt. Ta bort blåbär och äpplen, och tillsätt följande:"
+        [ Item "äpplen" 1.3 Kilo
+        , Item "passionsfrukt" 500 Gram
+        , Item "färsk ingefära" 200 Gram
+        , Item "apelsinjuice" 2 Deciliter
+        ]
+    , Step
+        "Te. Det finns två te-varianter; den ena på kallbryggt te som ger en vanlig \"dryck-syrlighet\", och den andra på kokt te som ger en smak mer liknande kombucha. För varianten med kokt te: Sjud teet i cirka 30 minuter, låt svalna och tillsätt teet med bladen i jäshinken. För att få en fin tefärg på drycken så använd inga bär med starka färger, så som blåbär."
+        [Item "svart te" 1.5 Deciliter]
+    , Step
+        "Under utveckling. Malört. Malörten ska torkas och smulas sönder något för att det ska vara enkelt att få rätt mängd i receptet. Ta bort blåbär och äpplen, och tillsätt följande:"
+        [Item "apelsinjuice" 1.5 Deciliter, Item "torkad malört" 1 Deciliter]
     ]
     ["Kjell Claeson", "Jonas Claeson"]
