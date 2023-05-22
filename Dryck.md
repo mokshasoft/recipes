@@ -56,5 +56,8 @@ Mjölksyrad frukt- och bärdryck.
 7. Jul-varianten, men även god annars. Tillsätt följande till receptet:
     - 2.0 msk hel kryddnejlika
     - 1.0 tsk ingefära
+8. Under utveckling. Ingefära; något åt lemonad-hållet. Under dom tre veckorna i den första fermenteringen så tas inte så mycket smak upp från ingefäran om den bara skivas eller hackas. Mixa därför ingefäran tillsammans med vatten i en mixer för att få ut mer av smaken. Ta bort blåbär och äpplen, och tillsätt följande:
+    - 1.2 kg Ingefära
+    - 0.6 liter apelsinjiuce
 
 

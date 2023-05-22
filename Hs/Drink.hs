@@ -64,5 +64,8 @@ recipe =
     , Step
         "Jul-varianten, men även god annars. Tillsätt följande till receptet:"
         [Item "hel kryddnejlika" 2 Tablespoon, Item "ingefära" 1 Teaspoon]
+    , Step
+        "Under utveckling. Ingefära; något åt lemonad-hållet. Under dom tre veckorna i den första fermenteringen så tas inte så mycket smak upp från ingefäran om den bara skivas eller hackas. Mixa därför ingefäran tillsammans med vatten i en mixer för att få ut mer av smaken. Ta bort blåbär och äpplen, och tillsätt följande:"
+        [Item "Ingefära" 1.2 Kilo, Item "apelsinjiuce" 0.6 Liter]
     ]
     ["Kjell Claeson", "Jonas Claeson"]
