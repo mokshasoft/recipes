@@ -53,8 +53,8 @@ Mjölksyrad frukt- och bärdryck.
     - 2.0 dl apelsinjuice
 6. Te. Det finns två te-varianter; den ena på kallbryggt te som ger en vanlig "dryck-syrlighet", och den andra på kokt te som ger en smak mer liknande kombucha. För varianten med kokt te: Sjud teet i cirka 30 minuter, låt svalna och tillsätt teet med bladen i jäshinken. För att få en fin tefärg på drycken så använd inga bär med starka färger, så som blåbär.
     - 1.5 dl svart te
-7. Under utveckling. Malört. Malörten ska torkas och smulas sönder något för att det ska vara enkelt att få rätt mängd i receptet. Ta bort blåbär och äpplen, och tillsätt följande:
+7. Malört. Malörten ska torkas och smulas sönder något för att det ska vara enkelt att få rätt mängd i receptet. Mängden malört är väldigt avgörande; 3 matskedar malört ger en svag malörtssmak och en dryck som liknar vitt vin något, och 9 matskedar malört ger en dryck mer som en bitter. Ta bort blåbär och äpplen, och tillsätt följande:
     - 1.5 liter apelsinjuice
-    - 1.0 dl torkad malört
+    - 3.0 msk torkad malört
 
 

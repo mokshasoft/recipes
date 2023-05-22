@@ -62,7 +62,7 @@ recipe =
         "Te. Det finns två te-varianter; den ena på kallbryggt te som ger en vanlig \"dryck-syrlighet\", och den andra på kokt te som ger en smak mer liknande kombucha. För varianten med kokt te: Sjud teet i cirka 30 minuter, låt svalna och tillsätt teet med bladen i jäshinken. För att få en fin tefärg på drycken så använd inga bär med starka färger, så som blåbär."
         [Item "svart te" 1.5 Deciliter]
     , Step
-        "Under utveckling. Malört. Malörten ska torkas och smulas sönder något för att det ska vara enkelt att få rätt mängd i receptet. Ta bort blåbär och äpplen, och tillsätt följande:"
-        [Item "apelsinjuice" 1.5 Liter, Item "torkad malört" 1 Deciliter]
+        "Malört. Malörten ska torkas och smulas sönder något för att det ska vara enkelt att få rätt mängd i receptet. Mängden malört är väldigt avgörande; 3 matskedar malört ger en svag malörtssmak och en dryck som liknar vitt vin något, och 9 matskedar malört ger en dryck mer som en bitter. Ta bort blåbär och äpplen, och tillsätt följande:"
+        [Item "apelsinjuice" 1.5 Liter, Item "torkad malört" 3 Tablespoon]
     ]
     ["Kjell Claeson", "Jonas Claeson"]
