@@ -40,21 +40,21 @@ Mjölksyrad frukt- och bärdryck.
 ## Anteckningar
 1. Äpplen går att byta mot tex rabarber som ger en annan smak.
 2. Olika kryddningsalternativ. Krydda drycken med tex chili, ingefära, färsk gurkmeja, nejlikor, eller något annat gott.
-3. Jul-varianten, men även god annars. Tillsätt följande till receptet:
-    - 2.0 msk hel kryddnejlika
-    - 1.0 tsk ingefära
-4. Hallon-ingefära. Ta bort blåbär och tillsätt följande:
-    - 450.0 gr hallon
-    - 100.0 gr färsk ingefära
-5. Passionsfrukt. Ta bort blåbär och äpplen, och tillsätt följande:
+3. Passionsfrukt. Ta bort blåbär och äpplen, och tillsätt följande:
     - 1.3 kg äpplen
     - 500.0 gr passionsfrukt
     - 200.0 gr färsk ingefära
     - 2.0 dl apelsinjuice
-6. Te. Det finns två te-varianter; den ena på kallbryggt te som ger en vanlig "dryck-syrlighet", och den andra på kokt te som ger en smak mer liknande kombucha. För varianten med kokt te: Sjud teet i cirka 30 minuter, låt svalna och tillsätt teet med bladen i jäshinken. För att få en fin tefärg på drycken så använd inga bär med starka färger, så som blåbär.
-    - 1.5 dl svart te
-7. Malört. Malörten ska torkas och smulas sönder något för att det ska vara enkelt att få rätt mängd i receptet. Mängden malört är väldigt avgörande; 3 matskedar malört ger en svag malörtssmak och en dryck som liknar vitt vin något, och 9 matskedar malört ger en dryck mer som en bitter. Ta bort blåbär och äpplen, och tillsätt följande:
+4. Malört. Malörten ska torkas och smulas sönder något för att det ska vara enkelt att få rätt mängd i receptet. Mängden malört är väldigt avgörande; 3 matskedar malört ger en svag malörtssmak och en dryck som liknar vitt vin något, och 9 matskedar malört ger en dryck mer som en bitter. Ta bort blåbär och äpplen, och tillsätt följande:
     - 1.5 liter apelsinjuice
     - 3.0 msk torkad malört
+5. Te. Det finns två te-varianter; den ena på kallbryggt te som ger en vanlig "dryck-syrlighet", och den andra på kokt te som ger en smak mer liknande kombucha. För varianten med kokt te: Sjud teet i cirka 30 minuter, låt svalna och tillsätt teet med bladen i jäshinken. För att få en fin tefärg på drycken så använd inga bär med starka färger, så som blåbär.
+    - 1.5 dl svart te
+6. Hallon-ingefära. Ta bort blåbär och tillsätt följande:
+    - 450.0 gr hallon
+    - 100.0 gr färsk ingefära
+7. Jul-varianten, men även god annars. Tillsätt följande till receptet:
+    - 2.0 msk hel kryddnejlika
+    - 1.0 tsk ingefära
 
 
