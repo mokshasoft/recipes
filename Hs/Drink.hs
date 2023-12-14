@@ -53,6 +53,12 @@ recipe =
         , Item "apelsinjuice" 2 Deciliter
         ]
     , Step
+        "Stjärnanis. Ta bort blåbär, och tillsätt följande:"
+        [ Item "hallon" 450 Gram
+        , Item "färsk ingefära" 200 Gram
+        , Item "stjärnanis" 15 Gram
+        ]
+    , Step
         "Malört. Malörten ska torkas och smulas sönder något för att det ska vara enkelt att få rätt mängd i receptet. Mängden malört är väldigt avgörande; 3 matskedar malört ger en svag malörtssmak och en dryck som liknar vitt vin något, och 9 matskedar malört ger en dryck mer som en bitter. Ta bort blåbär och äpplen, och tillsätt följande:"
         [Item "apelsinjuice" 1.5 Liter, Item "torkad malört" 3 Tablespoon]
     , Step
