@@ -73,5 +73,25 @@ recipe =
     , Step
         "Under utveckling. Ingefära; något åt lemonad-hållet. Under dom tre veckorna i den första fermenteringen så tas inte så mycket smak upp från ingefäran om den bara skivas eller hackas. Mixa därför ingefäran tillsammans med vatten i en mixer för att få ut mer av smaken. Ta bort blåbär och äpplen, och tillsätt följande:"
         [Item "Ingefära" 1.2 Kilo, Item "apelsinjiuce" 0.6 Liter]
+    , Step
+        "Smaker att testa."
+        [ Item "surkörsbär" 0 Gram
+        , Item "rönnbär" 0 Gram
+        , Item "shiso" 0 Gram
+        , Item "citrongräs" 0 Gram
+        , Item "kakao" 0 Gram
+        , Item "enbär/enbuske" 0 Gram
+        , Item "tall-/granskott" 0 Gram
+        , Item "rödbeta" 0 Gram
+        , Item "lagerblad" 0 Gram
+        , Item "krusbär" 0 Gram
+        , Item "svartvinbärsblad" 0 Gram
+        , Item "mynta" 0 Gram
+        , Item "yerba-mate" 0 Gram
+        , Item "malt" 0 Gram
+        , Item "grapefrukt" 0 Gram
+        , Item "aronia" 0 Gram
+        , Item "slånbär" 0 Gram
+        ]
     ]
     ["Kjell Claeson", "Jonas Claeson"]

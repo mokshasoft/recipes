@@ -7,7 +7,9 @@ import Recipe
 
 sizeToStr :: Item -> String
 sizeToStr item =
-  show (amount item) ++ " " ++ show (unit item) ++ " " ++ (name item)
+  (if (amount item == 0)
+     then ""
+     else show (amount item) ++ " " ++ show (unit item) ++ " ") ++ (name item)
 
 stepIngredientsToStr :: [Item] -> String
 stepIngredientsToStr [] = ""
