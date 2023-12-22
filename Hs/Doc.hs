@@ -1,3 +1,5 @@
+import Data.List
+import Data.Ord
 import Dosa
 import Drink
 import GFBread
@@ -12,16 +14,18 @@ import YoghurtSalad
 
 recipes :: [Recipe]
 recipes =
-  [ Dosa.recipe
-  , Drink.recipe
-  , IvanChai.recipe
-  , GFBread.recipe
-  , GFMeal.recipe
-  , Mead.recipe
-  , Truffles.recipe
-  , VeganTopping.recipe
-  , YoghurtSalad.recipe
-  ]
+  sortBy
+    (comparing title)
+    [ Dosa.recipe
+    , Drink.recipe
+    , IvanChai.recipe
+    , GFBread.recipe
+    , GFMeal.recipe
+    , Mead.recipe
+    , Truffles.recipe
+    , VeganTopping.recipe
+    , YoghurtSalad.recipe
+    ]
 
 main :: IO ()
 main = do
