@@ -1,7 +1,8 @@
 import Dosa
 import Drink
-import IvanChai
+import GFBread
 import GFMeal
+import IvanChai
 import Markdown
 import Mead
 import Recipe
@@ -14,6 +15,7 @@ recipes =
   [ Dosa.recipe
   , Drink.recipe
   , IvanChai.recipe
+  , GFBread.recipe
   , GFMeal.recipe
   , Mead.recipe
   , Truffles.recipe
