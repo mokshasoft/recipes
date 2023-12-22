@@ -9,7 +9,8 @@ sizeToStr :: Item -> String
 sizeToStr item =
   (if (amount item == 0)
      then ""
-     else show (amount item) ++ " " ++ show (unit item) ++ " ") ++ (name item)
+     else show (amount item) ++ " " ++ show (unit item) ++ " ") ++
+  (name item)
 
 stepIngredientsToStr :: [Item] -> String
 stepIngredientsToStr [] = ""
