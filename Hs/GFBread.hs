@@ -20,7 +20,7 @@ recipe =
         , Item "kummin/brödkryddor" 1 Teaspoon
         ]
     , Step
-        "Tillsått vatten och Probioform till mjölet. Knåda till en deg och lägg i en bunke."
+        "Tillsått vatten och [Probioform](https://probioform.com/) till mjölet. Knåda till en deg och lägg i en bunke."
         [Item "vatten" 3 Deciliter, Item "Probioform" 2 Tablespoon]
     , Step "Blötlägg bovete." [Item "skalat bovete" 3 Deciliter]
     , Step "Låt degen och boveten stå i rumstemeratur i 24 timmar." []

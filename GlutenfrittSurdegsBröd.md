@@ -22,7 +22,7 @@ Surdegsbröd gjort utan gluten, och utan behov av att hålla en surdegskultur le
     - 0.5 dl psylliumhusk
     - 1.0 tsk salt
     - 1.0 tsk kummin/brödkryddor
-2. Tillsått vatten och Probioform till mjölet. Knåda till en deg och lägg i en bunke.
+2. Tillsått vatten och [Probioform](https://probioform.com/) till mjölet. Knåda till en deg och lägg i en bunke.
     - 3.0 dl vatten
     - 2.0 msk Probioform
 3. Blötlägg bovete.
