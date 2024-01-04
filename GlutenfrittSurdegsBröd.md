@@ -29,8 +29,9 @@ Surdegsbröd gjort utan gluten, och utan behov av att hålla en surdegskultur le
     - 3.0 dl skalat bovete
 4. Låt degen och boveten stå i rumstemeratur i 24 timmar.
 5. Skölj boveten noga och knåda in i degen. Lägg tillbaka i bunken så att degen jäser till rätt form.
-6. Låt stå ytterligare 12-24 timmar. Ju mer tid desto mer syrlighet.
+6. Låt stå ytterligare 48 timmar i rumstemperatur. Ju mer tid desto mer syrlighet.
 7. Stjälp upp degen på en plåt och grädda på 210 grader i 30 minuter. Ställ en skål med vatten i botten på ugnen.
 8. Pensla brödet med vatten och låt stå i eftervärmen i ugnen.
+9. Låt brödet vila någon halvtimme efter gräddningen.
 
 

@@ -28,12 +28,13 @@ recipe =
         "Skölj boveten noga och knåda in i degen. Lägg tillbaka i bunken så att degen jäser till rätt form."
         []
     , Step
-        "Låt stå ytterligare 12-24 timmar. Ju mer tid desto mer syrlighet."
+        "Låt stå ytterligare 48 timmar i rumstemperatur. Ju mer tid desto mer syrlighet."
         []
     , Step
         "Stjälp upp degen på en plåt och grädda på 210 grader i 30 minuter. Ställ en skål med vatten i botten på ugnen."
         []
     , Step "Pensla brödet med vatten och låt stå i eftervärmen i ugnen." []
+    , Step "Låt brödet vila någon halvtimme efter gräddningen." []
     ]
     []
     ["Jonas Claeson"]
