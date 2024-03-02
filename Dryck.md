@@ -76,7 +76,6 @@ Mjölksyrad frukt- och bärdryck.
     - enbär/enbuske
     - tall-/granskott
     - rödbeta
-    - lagerblad
     - krusbär
     - svartvinbärsblad
     - mynta
@@ -85,5 +84,8 @@ Mjölksyrad frukt- och bärdryck.
     - grapefrukt
     - aronia
     - slånbär
+12. Testade smaker och mått.
+    - 2.0 msk mald gurkmeja: Ger en god tropisk smak.
+    - 60.0 st lagerblad: Gav en något annan bakteriekultur och smak.
 
 

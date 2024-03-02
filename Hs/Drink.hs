@@ -89,7 +89,6 @@ recipe =
         , Item "enbär/enbuske" 0 Gram
         , Item "tall-/granskott" 0 Gram
         , Item "rödbeta" 0 Gram
-        , Item "lagerblad" 0 Gram
         , Item "krusbär" 0 Gram
         , Item "svartvinbärsblad" 0 Gram
         , Item "mynta" 0 Gram
@@ -98,6 +97,11 @@ recipe =
         , Item "grapefrukt" 0 Gram
         , Item "aronia" 0 Gram
         , Item "slånbär" 0 Gram
+        ]
+    , Step
+        "Testade smaker och mått."
+        [ Item "mald gurkmeja: Ger en god tropisk smak." 2 Tablespoon
+        , Item "lagerblad: Gav en något annan bakteriekultur och smak." 60 Piece
         ]
     ]
     ["Kjell Claeson", "Jonas Claeson"]
