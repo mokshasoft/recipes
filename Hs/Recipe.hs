@@ -27,29 +27,23 @@ instance Show Unit where
   show Piece = "st"
   show Portion = "portioner"
 
-data Item =
-  Item
-    { name :: String
-    , amount :: Float
-    , unit :: Unit
-    }
-  deriving (Show)
+data Item = Item
+  { name :: String
+  , amount :: Float
+  , unit :: Unit
+  } deriving (Show)
 
-data Step =
-  Step
-    { description :: String
-    , items :: [Item]
-    }
-  deriving (Show)
+data Step = Step
+  { description :: String
+  , items :: [Item]
+  } deriving (Show)
 
-data Recipe =
-  Recipe
-    { filename :: String
-    , title :: String
-    , intro :: String
-    , size :: Item
-    , steps :: [Step]
-    , notes :: [Step]
-    , creators :: [String]
-    }
-  deriving (Show)
+data Recipe = Recipe
+  { filename :: String
+  , title :: String
+  , intro :: String
+  , size :: Item
+  , steps :: [Step]
+  , notes :: [Step]
+  , creators :: [String]
+  } deriving (Show)
