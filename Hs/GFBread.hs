@@ -36,5 +36,8 @@ recipe =
     , Step "Pensla brödet med vatten och låt stå i eftervärmen i ugnen." []
     , Step "Låt brödet vila någon halvtimme efter gräddningen." []
     ]
-    []
+    [ Step
+        "Istället för att låta degen stå i 3 dygn kan man fermentera den i ett lätt yoghurt program i 10 timmar."
+        []
+    ]
     ["Jonas Claeson"]
