@@ -4,6 +4,7 @@ A collection of recipes
   - [Dosa](Dosa.md)
   - [Gluten-fri mjöl](GlutenfriMjöl.md)
   - [Gluten-fritt surdegsbröd](GlutenfrittSurdegsBröd.md)
+  - [Glutenfri chokladkaka](GlutenfriChokladKaka.md)
   - [Ivan Chai](IvanChai.md)
   - [Nejlikomjöd](Nejlikomjöd.md)
   - [Salt yoghurt sallad](Yoghurtsallad.md)

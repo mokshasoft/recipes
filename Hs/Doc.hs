@@ -3,6 +3,7 @@ import Data.Ord
 import Dosa
 import Drink
 import GFBread
+import GFChocolateCake
 import GFMeal
 import IvanChai
 import Markdown
@@ -20,6 +21,7 @@ recipes =
     , Drink.recipe
     , IvanChai.recipe
     , GFBread.recipe
+    , GFChocolateCake.recipe
     , GFMeal.recipe
     , Mead.recipe
     , Truffles.recipe

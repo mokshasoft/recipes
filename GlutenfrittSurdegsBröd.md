@@ -35,3 +35,7 @@ Surdegsbröd gjort utan gluten, och utan behov av att hålla en surdegskultur le
 9. Låt brödet vila någon halvtimme efter gräddningen.
 
 
+## Anteckningar
+1. Istället för att låta degen stå i 3 dygn kan man fermentera den i ett lätt yoghurt program i 10 timmar.
+
+
