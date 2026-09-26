@@ -1,5 +1,6 @@
 # Recipes
 A collection of recipes
+  - [Bovetepannkakor](Bovetepannkakor.md)
   - [Chokladtryfflar](Chokladtryfflar.md)
   - [Dosa](Dosa.md)
   - [Gluten-fri mjöl](GlutenfriMjöl.md)

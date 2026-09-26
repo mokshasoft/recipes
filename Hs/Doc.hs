@@ -1,5 +1,6 @@
 import Data.List
 import Data.Ord
+import BuckwheatPancakes
 import Dosa
 import Drink
 import GFBread
@@ -17,7 +18,8 @@ recipes :: [Recipe]
 recipes =
   sortBy
     (comparing title)
-    [ Dosa.recipe
+    [ BuckwheatPancakes.recipe
+    , Dosa.recipe
     , Drink.recipe
     , IvanChai.recipe
     , GFBread.recipe
