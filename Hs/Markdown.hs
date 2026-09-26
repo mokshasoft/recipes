@@ -32,8 +32,23 @@ itemsToStr :: [Item] -> String
 itemsToStr [] = ""
 itemsToStr (x:xs) = "- " ++ sizeToStr x ++ "\n" ++ itemsToStr xs
 
+-- Items with the same name and unit are merged by summing their amounts
+mergeItems :: [Item] -> [Item]
+mergeItems = foldl add []
+  where
+    same a b = name a == name b && unit a == unit b
+    add acc i
+      | any (same i) acc =
+        map
+          (\x ->
+             if same i x
+               then x {amount = amount x + amount i}
+               else x)
+          acc
+      | otherwise = acc ++ [i]
+
 stepsToItems :: [Step] -> [Item]
-stepsToItems steps = foldl (\acc i -> acc ++ items i) [] steps
+stepsToItems steps = mergeItems $ concatMap items steps
 
 stepsToIngredients :: [Step] -> String
 stepsToIngredients = itemsToStr . stepsToItems

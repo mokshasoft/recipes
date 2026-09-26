@@ -9,9 +9,8 @@ Mjölksyrad frukt- och bärdryck.
 - 1.5 st apelsin
 - 0.75 kg blåbär
 - 0.5 liter dryck
-- 375.0 gr honung
+- 525.0 gr honung
 - 17.0 gr fänkålsfrö
-- 150.0 gr honung
 
 
 ## Steg

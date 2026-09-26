@@ -7,11 +7,10 @@ Pannkakor gjorda på bovetemjöl.
 ## Ingredienser
 - 2.5 dl bovetemjöl
 - 0.5 tsk salt
-- 3.0 dl mjölk
+- 6.0 dl mjölk
 - 100.0 gr smör
 - 0.5 dl olivolja
 - 1.0 st banan
-- 3.0 dl mjölk
 
 
 ## Steg

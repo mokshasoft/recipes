@@ -15,6 +15,7 @@ data Unit
   | Liter
   | Piece
   | Portion
+  deriving (Eq)
 
 instance Show Unit where
   show Tablespoon = "msk"
